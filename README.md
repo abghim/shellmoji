@@ -1,4 +1,4 @@
-# shellmoji -- Prettify Your Bash Shell With Dynamic Emojis
+# shellmoji -- Prettify your bash shell With dynamic emojis
 `shellmoji` is a bash extension script that adds a small but impactful beauty in your prompt. The shell responds to each of your commands with a lively emoji, all while fitting seamlessly into your command line workflow. Append the attached script to your .bashrc file in your home directory to unlock an interactive pleasure you never knew you always wanted.
 
 <img width="1552" alt="스크린샷 2025-06-12 오후 8 14 16" src="https://github.com/user-attachments/assets/62ed4464-3b36-407a-b2b8-693d2f383a47" />
